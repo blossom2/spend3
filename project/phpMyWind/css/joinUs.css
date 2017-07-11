@@ -1,0 +1,90 @@
+*{
+  padding:0;
+  margin:0;
+}
+/* start 头部样式*/
+.header-home {
+    box-shadow: 0px 2px 4px rgba(1, 1, 1, 0.15);
+    height: 54px;
+    padding-top: 7px;
+    width: 100%;
+    opacity: 0.85;
+    background-color: #fff;
+}
+.row .header-nav {
+  margin-top: -4px;
+}
+.row .header-nav li {
+  list-style: none;
+  float: left;
+    background: url(../images/nav-logo.PNG) no-repeat;
+    width: 103px;
+    height: 32px;
+    line-height: 32px;
+}
+.row .header-nav a {
+  text-decoration: none;
+    padding-left: 20px;
+    color: #fff;
+    font-size: 14px;
+}
+/*上方大图片*/
+.picture {    margin: 0 auto;
+    width: 1100px;
+}
+/*加入奥昇*/
+.all {border-bottom: 1px solid #000;
+  width: 1100px;
+    margin: 0 auto;
+ }
+.text {    width: 1110px;
+    margin: 0 auto;}
+.text p {
+    float: right;
+}
+
+ .head {width: 1100px;
+    height: 45px;
+    font-weight: bold;
+    padding-top: 10px;
+    margin: 0 auto;
+ }
+ .head p {  width:100%;
+      padding-top: 10px; 
+        border-bottom: 2px solid #000; 
+  }
+  /*文字*/
+  .text1 {border: 1px solid #000;
+           width: 1110px;
+             margin: 0 auto;
+            background-color: #bfbfbf;
+            margin-left: 18px;
+  }
+  .text1 h3{ font-weight: bold; }
+  .text2 {
+           width: 1110px;
+             margin: 0 auto;
+  }
+.der { background-color: #000;
+            color: #fff;
+ }
+ .ten {background-color: #00f;}
+ /*底部*/
+  .footer {
+  width: 100%;
+  height: 200px;
+  position: relative;
+  background-color:#526171;
+}
+.f-left {
+  position: absolute;
+  padding-left: 300px;
+  padding-top: 40px;
+}
+.f-left img {padding-left: 190px;}
+.f-left p {text-align: center;line-height: 50px;}
+.f-right {
+  position: absolute;
+  padding-left: 1000px;
+  padding-top: 40px;
+}

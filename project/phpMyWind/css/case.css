@@ -1,0 +1,78 @@
+*{
+  padding:0;
+  margin:0;
+}
+/* start 头部样式*/
+.header-home {
+    box-shadow: 0px 2px 4px rgba(1, 1, 1, 0.15);
+    height: 54px;
+    padding-top: 7px;
+    width: 100%;
+    opacity: 0.85;
+    background-color: #fff;
+}
+.row .header-nav {
+  margin-top: -4px;
+}
+.row .header-nav li {
+  list-style: none;
+  float: left;
+    background: url(../images/nav-logo.PNG) no-repeat;
+    width: 103px;
+    height: 32px;
+    line-height: 32px;
+}
+.row .header-nav a {
+  text-decoration: none;
+    padding-left: 20px;
+    color: #fff;
+    font-size: 14px;
+}
+/*上方图片*/
+.pic img { margin: 0 auto;
+          width: 100%;
+ }
+ /*案件展示*/
+.git {border-bottom: 1px solid #000; }
+.git p {
+    display:inline-block;
+    float: right;
+}
+ .make {
+        height: 10px;
+        font-weight: bold;
+        padding-top: 10px;
+       
+ }
+ .make p { 
+    padding-top: 10px;
+    border-bottom: 2px solid #000;}
+    /*图片*/
+.print {height: 550px;
+        padding-top: 40px;
+}
+.print ul li{ border: 1px solid #000; 
+                  text-align: center;
+                      margin-top: 45px;
+}
+/*底部*/
+.footer {
+  width: 100%;
+  height: 200px;
+  position: relative;
+  background-color:#526171;
+  display: inline-block;
+  margin-top: 28px;
+}
+.f-left {
+  position: absolute;
+  padding-left: 300px;
+  padding-top: 40px;
+}
+.f-left img {padding-left: 190px;}
+.f-left p {text-align: center;line-height: 50px;}
+.f-right {
+  position: absolute;
+  padding-left: 1000px;
+  padding-top: 40px;
+}

@@ -1,0 +1,92 @@
+.pic img{margin: 0 auto;
+			width: 100%;
+}
+.git{border-bottom: 1px solid #000; }
+.git p{
+    display:inline-block;
+    float: right;
+    margin: 0;
+}
+.cols{
+  border:1px solid #000;
+  background-color: #ff0;
+}
+ .word p{ font-weight: bold; 
+ 	text-align: center;
+ 	font-size: 30px;
+ 	    border-bottom:1px solid #000;
+ }
+.auto p{    font-weight: bold;
+    text-align: center;
+    font-size: 15px;
+    border-bottom: 1px solid #000;}
+    .list{}
+    .cols p{border:1px solid #000;
+      background-color: #ff0;
+ }
+ .edit{float: right;}
+ .all2 {     height: 100px; }
+ .left{float: left;
+    display: inline-block;}
+ .left p{ color: #9A9A9A ;
+ }
+ .a-p{ display: inline-block;
+
+  }
+ .left span{ color: #000; }
+ .right1{ float:right;
+        height: 40px;
+        margin: 0;
+  }
+.one{/* background: #C5B9B9 ;*/
+        border: 1px solid ##DBD8D8;
+        display: inline-block;
+        float: left;
+}
+.one span{ color: ##B3AEAE; }
+.one p{display:inline-block;
+     background: #C5B9B9;
+    border:1px solid #BFBFBF;}
+.table1 {    padding: 10px;}
+.table1 table{border:1px solid #BFBFBF;
+      width: 100%;
+      height: 100px;
+    }
+    .say {border: 1px solid #BFBFBF;
+          width: 100%;
+          height: 100px;
+    }
+
+/*pass textarea{ color: #BBB4B4 ;
+                    width: 100%;
+}
+.pass1{ border-bottom: 1px solid #817979;
+    border-right: 1px solid #817979 };*/
+/*.table1 rideo{     float: left;
+        border-left: 1px solid #B5B2B2;
+        border-right: 1px solid #C1C0C0;
+        height: 21px;
+        width: 96%;
+ }*/
+ .rideo1{border-left: 1px solid #BFBFBF;}
+ .footer {
+        width: 100%;
+        height: 200px;
+        background-color:#526171;
+        display: inline-block;
+}
+.f-left {
+    position: absolute;
+    padding-left: 295px;
+    padding-top: 24px;
+}
+.f-left img {padding-left: 190px;
+}
+.f-left p {text-align: center;
+           line-height: 50px;
+}
+.f-right {
+  position: absolute;
+  padding-left: 1000px;
+  padding-top: 40px;
+}
